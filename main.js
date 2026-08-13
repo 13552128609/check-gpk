@@ -41,3 +41,27 @@ node /home/jacob/wanchain/check-gpk/main.js \
   --rpc https://gwan-ssl.wandevs.org:56891 \
   --verbose 1
 */
+
+/*
+response :
+
+{
+  "grpId": "0x000000000000000000000000000000000000000000000041726965735f303639",
+  "gpkCount": 3,
+  "smNumber": 25,
+  "thresholds": [
+    17,
+    9,
+    17
+  ],
+  "results": [
+    {
+      "0": true,
+      "1": true,
+      "2": true,
+      "grpId": "0x000000000000000000000000000000000000000000000041726965735f303639"
+    }
+  ]
+}
+
+*/
