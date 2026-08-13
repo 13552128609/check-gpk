@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "commonjs",
-  "main": "main.js",
+  "main": "lib/checkValid.js",
   "scripts": {
     "start": "node main.js"
   },
