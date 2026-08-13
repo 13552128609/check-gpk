@@ -1,0 +1,16 @@
+{
+  "name": "check-gpk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "ecurve": "^1.0.6",
+    "ecurve-bn256": "^1.0.15",
+    "ethers": "^6.16.0"
+  }
+}
